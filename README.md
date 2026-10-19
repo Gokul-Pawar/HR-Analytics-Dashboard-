@@ -3,8 +3,6 @@
 ## 📊 Overview
 An interactive **HR Analytics Dashboard** built with Power BI to explore employee attrition and workforce metrics. The dashboard helps users examine how attrition varies by education field, gender, job role, age group, salary slab, and department.
 
-> **Purpose:** Portfolio and learning project. Interpret findings in the context of the dataset used; the dashboard alone does not establish the causes of employee attrition.
-
 ## 🎯 Project Objectives
 - Track key workforce KPIs.
 - Analyze employee attrition count and attrition rate.
@@ -54,14 +52,7 @@ Add your screenshots to a folder such as `screenshots/`, then uncomment and upda
 ![Filtered Dashboard View](screenshots/hr-dashboard-filtered.png)
 -->
 
-## 🚀 How to View the Project
-1. Download or clone this repository.
-2. Open the `.pbix` report in **Power BI Desktop** (if included).
-3. If prompted, connect to or refresh the dataset used by the report.
-4. Use the department, job role, and education field slicers to explore the dashboard.
-
 ## 📁 Suggested Repository Structure
-```text
 HR-Analytics-Dashboard/
 ├── README.md
 ├── HR-Analytics-Dashboard.pbix
@@ -70,9 +61,6 @@ HR-Analytics-Dashboard/
 └── screenshots/
     ├── hr-dashboard-overview.png
     └── hr-dashboard-filtered.png
-```
-
-Only include files and folders that actually exist in your repository. Do not upload confidential or personally identifiable employee data.
 
 ## 📚 Skills Demonstrated
 - Power BI report building
